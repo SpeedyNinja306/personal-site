@@ -1,4 +1,4 @@
-# Corbin Langfeldt — Portfolio
+# Corbin Langfeldt - Portfolio
 
 Personal portfolio site. Built with React 19, Vite 7, Tailwind CSS 4, and react-router-dom.
 
