@@ -40,7 +40,7 @@ public/
 ## Editing content
 
 All copy lives in `src/data/portfolio.js`: personal info, projects, experience, skills,
-and social links. Edit there and rebuild.
+and social links. 
 
 ## Resume
 
